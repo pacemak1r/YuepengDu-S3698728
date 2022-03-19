@@ -1,1 +1,2 @@
-# YuepengDu-S3698728
+# YuepengDu
+S3698728@student.rmit.edu.au
